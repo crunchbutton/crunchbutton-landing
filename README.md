@@ -1,0 +1,1 @@
+Only edit the **index.html** and **wenzel.html**. The index files in the sub directories are symlinks back to **wenzel.html**.
