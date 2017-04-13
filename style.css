@@ -33,7 +33,7 @@ html, body {
 	font-style: italic;
 }
 .logo {
-	background: url(finger-logo-modern.svg) no-repeat;
+	background: url(./finger-logo-modern.svg) no-repeat;
 	height: 23em;
 	width: 23em;
 	background-size: contain;
@@ -107,7 +107,7 @@ button {
 	height: 100%;
 }
 .icon-wenzel {
-	background: url(sandwich.svg) no-repeat;
+	background: url(./sandwich.svg) no-repeat;
 	height: 1.5em;
 	width: 1.5em;
 	display: inline-block;
